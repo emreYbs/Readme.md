@@ -2,7 +2,7 @@
 
 ### A little info about me 🧑‍💻 
 
-I am an instructor at a university and help my students with technical English. I try to improve myself on Python, natural language processing, and infoSec. I am not a professional programmer or a cyber security professional. However, I have a strong desire to learn and improve everyday. So, who knows I can change careers soon. We need to be open-minded and flexible in life, don't we ❔  😊
+I am an instructor at a university and help my students with technical English. I try to improve myself on Python, natural language processing, and infoSec. I am not a professional programmer or a cyber security professional. However, I have a strong desire to learn and improve everyday. So, who knows I may switch careers soon. We need to be open-minded and flexible in life, don't we ❔  😊
 
 I am a serious ameteur of these subjects:
 * Cybersecurity  🛡️
