@@ -2,10 +2,10 @@
 
 ### A little info about me 🧑‍💻 
 
-I am an instructor at a university and help my students with technical English. I try to improve myself on Python, natural language processing, and infoSec. I am not a professional programmer or a cyber security professional. However, I have a strong desire to learn and improve everyday. So, who knows I may switch careers soon. We need to be open-minded and flexible in life, don't we ❔  😊
+I am an instructor at a university and help my students with technical English. I try to improve myself on Python, natural language processing, and infoSec. BTW I am not a professional programmer. However, I have a strong desire to learn and improve everyday. I may switch careers soon. We need to be open-minded, learn constantly and flexible in life, don't we ❔  😊
 
 I am a serious ameteur of these subjects:
-* Cybersecurity  🛡️
+* Cybersecurity  🛡️ *(Currently, CompTIA PenTest+, Security+, CEH v9, OSCP certified)*
 * Osint :eyes:
 * Natural language processing 🗣️   💬   
 * Bugbounty  🐛
