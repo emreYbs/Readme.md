@@ -22,7 +22,7 @@ In short, I can say that I am a self-driven person who is actively looking for w
 
 
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emreYbs&theme=github_dark" alt="emreYbs" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emreYbs&theme=github_dark&cache_seconds=1600" alt="emreYbs" align = "center"/></p>
 
 ## `echo "Let's get connected"` <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
