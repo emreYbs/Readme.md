@@ -16,13 +16,13 @@ In short, I can say that I am a self-driven person who is actively looking for w
 
 <div align="center">
   <a href="https://github.com/emreYbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emreYbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emreYbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=16"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreYbs&layout=compact&langs_count=8&theme=radical&cache_seconds=1600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreYbs&layout=compact&langs_count=8&theme=radical&cache_seconds=16"/>
 
 
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emreYbs&theme=github_dark&cache_seconds=1600" alt="emreYbs" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emreYbs&theme=github_dark&cache_seconds=16" alt="emreYbs" align = "center"/></p>
 
 ## `echo "Let's get connected"` <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
