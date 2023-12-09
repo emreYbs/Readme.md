@@ -18,7 +18,9 @@ In short, I can say that I am a self-driven person who is actively looking for w
   <a href="https://github.com/emreYbs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emreYbs&show_icons=true&theme=dracula"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreYbs&layout=compact&langs_count=8&theme=radical&cache_seconds=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreYbs&hide_progress=true&layout=compact&langs_count=8&theme=radical&cache_seconds=1600"/>
+
+
 
 
 
